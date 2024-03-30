@@ -34,7 +34,7 @@ The report collects data on:
    + Customers order The maximum number of products from Amazon, Flipkart and Myntra channels.
    + The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
   ### Customer Insights
-   + Women customers are more likely to buy products compared to men (~65%).
+   + Women customers are more likely to buy products than men (~65%).
    + The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 ## Future Strategies
  1. Marketing Focus: Invest in marketing strategies targeting customers from Maharashtra, Karnataka and Uttar Pradesh.
